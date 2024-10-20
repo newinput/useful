@@ -1,0 +1,7 @@
+== NEOVIM ==
+
+telescope find files: 
+
+if inside oil.nvim buffer:
+  use oil.nvim cwd as root for file search. 
+  instead of actual cwd of nvim buffer. 
